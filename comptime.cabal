@@ -4,7 +4,7 @@ version:            0.1.0.0
 synopsis:           A project demonstrating compile-time execution in Haskell
 description:        This project implements compile-time execution of Haskell expressions using Template Haskell.
 homepage:           https://github.com/qxrein/comptime
-license:            BSD-3-Clause
+license:            MIT
 license-file:       LICENSE
 author:             qxrein
 maintainer:         manavrj.07@gmail.com
