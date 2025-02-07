@@ -44,3 +44,6 @@ cabal run
     base >= 4.14 && < 4.18,
     template-haskell >= 2.18 && < 2.20
 ```
+
+# License
+`MIT-LICENSE`
